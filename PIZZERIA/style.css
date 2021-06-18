@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-size: medium;
+    border-color: goldenrod;
+    border-radius: 30px;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+img{
+font-size: xx-large;
+}
+input{
+    background-color: white;
+    text-shadow: slateblue;
+}
